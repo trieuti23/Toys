@@ -1,1 +1,2 @@
-web: node index.html
+web: sh set up.sh && streamlit run app.py
+
